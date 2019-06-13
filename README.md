@@ -20,8 +20,6 @@ Packages:
 
 Attached below are a few screenshots from caption generation for videos from the **validation set**.
 
-# Dataset
-
 # Demo
 
 A **demo of my system** can be found
